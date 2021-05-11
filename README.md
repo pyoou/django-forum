@@ -2,7 +2,7 @@
 
 ## General info
 This project is simple forum api with connected react. Created with Django, DjangoRestFramework, PostgreSQL, reactJs.
-###Api is set to allow any requests from frontend and it has been tested.
+####Api is set to allow any requests from frontend and it has been tested.
 
 ## Technologies
 Project is created with:
