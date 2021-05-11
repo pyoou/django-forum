@@ -145,3 +145,9 @@ pytest_cache/
 __pycache__/
 .pycache/
 .__pycache__/
+
+# node modules 
+node_modules/
+.node_modules/
+.node_modules
+node_modules
